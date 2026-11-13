@@ -47,4 +47,4 @@ Keep the feature order (`pclass, sex, age, fare`) the same in `train_model.py` a
 2. Go to streamlit.io/cloud, sign in with GitHub and click **Create app**.
 3. Choose the repository, branch `main` and main file `app.py`, then click **Deploy**.
 
-**Author:** Your Name
+**Author:** Sankari
